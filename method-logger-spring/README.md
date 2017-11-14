@@ -22,8 +22,8 @@ mvn clean install
 maven
 ```xml
 <dependency>
-  	<groupId>com.au.examples</groupId>
-	  <artifactId>method-logger-spring</artifactId>
-	  <version>0.0.2</version>
+	<groupId>com.au.examples</groupId>
+	<artifactId>method-logger-spring</artifactId>
+	<version>0.0.2</version>
 </dependency>
 ```
